@@ -1,0 +1,42 @@
+#our-partners h2{ font-size: 1.6rem !important; color: #333; margin-bottom:1rem;}
+
+.section_1, .section_2{ -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .12);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .12);
+    -webkit-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+    -webkit-border-radius: 0; background: #fff;}
+
+
+  #project h2{ font-size: 1.2rem; color: #666; font-weight: normal;}
+
+  #project h2 span{ font-size: 1.4rem; color: #666; font-weight: 600;}
+
+  #project h3{ font-size: 1.4rem; font-weight: 600; margin-top: 2rem;}
+
+  #project h4{ font-size: 1.4rem; font-weight: 600; margin-top: 2rem;}
+
+ #site-footer h2{ color: #fff !important; margin-bottom: 1rem; font-size: 1.6rem;}
+
+ .bg2 { background: #eee !important}
+
+ .bg2 .process-wrapp{ color: #000 !important}
+
+ .bg2 p{ color: #000 !important}
+
+ .heading-title>span{ color:#000 !important; font-size: 1.6rem; font-weight: 600;}
+
+ .bg2 .fontbold { font-weight: 600;}
+
+ #our-testimonial p{color:#eee}
+
+ .break1{ display: none;}
+ 
+ .copyright{ font-size: .8rem !important;}
+
+ @media (max-width: 480px) {
+
+    .break1{display: block;}
+
+ }
+
